@@ -7,8 +7,8 @@
     "publish": "lerna publish"
   },
   "devDependencies": {
-    "@danielpes/coding-standards": "latest",
-    "@danielpes/eslint-config": "latest",
+    "@danielpes/coding-standards": "^0.3.0",
+    "@danielpes/eslint-config": "^0.1.2",
     "lerna": "3.22.1"
   }
 }
