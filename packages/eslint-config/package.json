@@ -1,7 +1,6 @@
 {
   "name": "@danielpes/eslint-config",
   "version": "0.1.1",
-  "main": "index.js",
   "description": "My personal shared configuration for eslint.",
   "repository": "git@github.com:danielpes/coding-standards.git",
   "author": "Daniel de Paula <contact@danielpes.me>",
@@ -9,6 +8,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "main": "index.js",
   "dependencies": {
     "eslint": "7.18.0",
     "eslint-config-prettier": "7.2.0",

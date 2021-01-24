@@ -1,7 +1,7 @@
 {
   "name": "@danielpes/coding-standards",
   "version": "0.2.1",
-  "description": "My personal shared configuration for prettier, commitlint, husky, etc.",
+  "description": "My personal shared configuration for Prettier, Husky, etc.",
   "repository": "git@github.com:danielpes/coding-standards.git",
   "author": "Daniel de Paula <contact@danielpes.me>",
   "license": "MIT",
