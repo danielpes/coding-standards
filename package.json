@@ -1,13 +1,7 @@
 {
   "name": "@danielpes/eslint-config",
-  "version": "0.1.0",
-  "description": "My personal shared configuration for eslint, prettier, commitlint, etc.",
-  "repository": "git@github.com:danielpes/coding-standards.git",
-  "author": "Daniel de Paula <contact@danielpes.me>",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
     "publish": "lerna publish"
   },
