@@ -14,5 +14,25 @@ module.exports = {
     ecmaVersion: 2019,
     sourceType: "module"
   },
-  rules: {}
+  rules: {
+    // Off
+    curly: "off",
+    "no-use-before-define": "off",
+    "require-atomic-updates": "off",
+    "sort-imports": "off",
+    // Warn
+    "no-alert": "warn",
+    "no-return-assign": "warn",
+    "no-unused-vars": "warn",
+    // Error
+    "import/newline-after-import": "error",
+    "import/order": [
+      "error",
+      {
+        alphabetize: { caseInsensitive: true, order: "asc" },
+        groups: [["builtin", "external"]],
+        "newlines-between": "always"
+      }
+    ]
+  }
 };
