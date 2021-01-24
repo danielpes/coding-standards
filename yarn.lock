@@ -160,9 +160,9 @@
   integrity sha512-VoNqai1vR5anRF5Tuh/+SWDFk7xi7oMwHrHrbm1BprYXjB2RJsWLhUrStMssDxEl5lW/z3EUdg8RvH/IUBccSQ==
 
 "@danielpes/coding-standards@^1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.0.0/ee6f800b1fc295e81797334ccd8ebb9ad167c7c8a72ef2e79d1529035f8a06a1#618459d1046df925094738c070f5ea14290507fb"
-  integrity sha512-wXTlvqh4WAthfudPR5WXMoCsAEAw4qMCe/KJn+XPZaJiwc8O0Oft+73EFcaJSO6F6fvg8R2UP5UhXFNufYkuOw==
+  version "1.0.1"
+  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.0.1/d6fba2a5690f8f00aed408ad37f949b5ec158f6ca760da369a3a376b7d12e20f#af78ae559572445f74d8eb207149f990c0397c24"
+  integrity sha512-OSyilUmrxUMIuxl4i7FrThXZwq+Flobs7eBn1uV5b2BCA2CE363P5J9nDeExHPTnEvMG1zd8QTakeUuCfb7CjA==
   dependencies:
     "@commitlint/cli" "11.0.0"
     conventional-changelog-conventionalcommits "4.5.0"
