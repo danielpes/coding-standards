@@ -13,6 +13,7 @@ module.exports = {
         "feat",
         "fix",
         "perf",
+        "publish",
         "refactor",
         "revert",
         "style",
