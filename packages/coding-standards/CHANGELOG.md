@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.0.1](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.0.0...@danielpes/coding-standards@1.0.1) (2021-01-24)
+
+
+### Misc
+
+* add publish to commitlint accepted types ([90101a3](https://github.com/danielpes/coding-standards/commit/90101a36922666a52b7e4a94e68fc9f0820ef3c0))
+
+
+
 ## [1.0.0](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@0.3.0...@danielpes/coding-standards@1.0.0) (2021-01-24)
 
 
