@@ -1,1 +1,1 @@
-module.exports = require("./config/lintstaged");
+module.exports = require("@danielpes/coding-standards/config/lintstaged");

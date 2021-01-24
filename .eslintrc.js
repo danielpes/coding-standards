@@ -1,1 +1,3 @@
-module.exports = require("./config/eslint");
+module.exports = {
+  extends: ["@danielpes/eslint-config"]
+};

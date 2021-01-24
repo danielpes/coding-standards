@@ -1,16 +1,17 @@
 {
   "name": "@danielpes/eslint-config",
   "version": "0.1.0",
-  "description": "My personal shared configuration for eslint, prettier, commitlint, etc.",
+  "main": "index.js",
+  "description": "My personal shared configuration for eslint.",
   "repository": "git@github.com:danielpes/coding-standards.git",
   "author": "Daniel de Paula <contact@danielpes.me>",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "devDependencies": {
-    "@danielpes/coding-standards": "latest",
-    "@danielpes/eslint-config": "latest",
-    "lerna": "3.22.1"
+  "dependencies": {
+    "eslint": "7.18.0",
+    "eslint-config-prettier": "7.2.0",
+    "eslint-plugin-import": "2.22.1"
   }
 }
