@@ -3,8 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "git:current-changelog": "git --no-pager log --pretty=\"format: - %s\" $(git describe --abbrev=0 --tags)..HEAD",
+    "preversion": "echo 'Commits since last release:' && yarn --silent git:current-changelog && cli-confirm '\nDo you want to continue (y/N)?' && yarn && yarn build",
     "lint": "eslint --fix . && prettier --write .",
-    "publish": "lerna publish"
+    "lerna:publish": "GH_TOKEN=$GITHUB_TOKEN lerna publish --loglevel warn --conventional-commits --create-release github"
   },
   "devDependencies": {
     "@danielpes/coding-standards": "^0.3.0",
