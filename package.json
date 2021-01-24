@@ -8,6 +8,9 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "scripts": {
+    "publish": "lerna publish"
+  },
   "devDependencies": {
     "@danielpes/coding-standards": "latest",
     "@danielpes/eslint-config": "latest",
