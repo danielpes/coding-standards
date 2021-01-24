@@ -159,20 +159,21 @@
   resolved "https://registry.yarnpkg.com/@commitlint/types/-/types-11.0.0.tgz#719cf05fcc1abb6533610a2e0f5dd1e61eac14fe"
   integrity sha512-VoNqai1vR5anRF5Tuh/+SWDFk7xi7oMwHrHrbm1BprYXjB2RJsWLhUrStMssDxEl5lW/z3EUdg8RvH/IUBccSQ==
 
-"@danielpes/coding-standards@^0.3.0":
-  version "0.3.0"
-  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/0.3.0/85db3fae57ac7773c352f6f7791d3b60169631fb095ee264a4621e26895a5a8e#30ef8c3eb92a2cb8439ec4fa0740cd4f8f6e812c"
-  integrity sha512-axezN6iPvB9FR5s4TBapJSAAhoV4P4+wa4sSyTZdWJXOP1TBA2dmZq5bhNS74bqwIpI++f9IOD3Q59l4IZmoDQ==
+"@danielpes/coding-standards@^1.0.0":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.0.0/ee6f800b1fc295e81797334ccd8ebb9ad167c7c8a72ef2e79d1529035f8a06a1#618459d1046df925094738c070f5ea14290507fb"
+  integrity sha512-wXTlvqh4WAthfudPR5WXMoCsAEAw4qMCe/KJn+XPZaJiwc8O0Oft+73EFcaJSO6F6fvg8R2UP5UhXFNufYkuOw==
   dependencies:
     "@commitlint/cli" "11.0.0"
+    conventional-changelog-conventionalcommits "4.5.0"
     husky "4.3.8"
     lint-staged "10.5.3"
     prettier "2.2.1"
 
-"@danielpes/eslint-config@^0.1.2":
-  version "0.1.2"
-  resolved "https://npm.pkg.github.com/download/@danielpes/eslint-config/0.1.2/cbd9df2a316a43d459eedfd2fcad46689d57411e2b3c7614249c988de3494d7f#e8d9308bc68d4978314a2ec01dcb74647bafddac"
-  integrity sha512-43spM3Hpx/CmKFtNIhrlwMnVMStzHZUTMJsPi3ZCMc7/eQtOv6r6rlflRkOg0rfnuehmvuxX8cMTuD3SHsYMNg==
+"@danielpes/eslint-config@^1.0.0":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@danielpes/eslint-config/1.0.0/c4189746ad4e7e6d1e598e8ca526257fc2cb6329b833892d0717ed85a3a10dc0#e59c39812b0f43d9732d2a8ff584c89a1ddbdd37"
+  integrity sha512-6mndg3e+8q4kqOwdNe1UXeG1FItJokzWZX645jAWxyYBfTzWN6X/6V2xMWFOn9E/wI46ou1ucFvhnnDe3nijjQ==
   dependencies:
     eslint "7.18.0"
     eslint-config-prettier "7.2.0"
@@ -1852,7 +1853,7 @@ conventional-changelog-angular@^5.0.0, conventional-changelog-angular@^5.0.3:
     compare-func "^2.0.0"
     q "^1.5.1"
 
-conventional-changelog-conventionalcommits@^4.5.0:
+conventional-changelog-conventionalcommits@4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/conventional-changelog-conventionalcommits/-/conventional-changelog-conventionalcommits-4.5.0.tgz#a02e0b06d11d342fdc0f00c91d78265ed0bc0a62"
   integrity sha512-buge9xDvjjOxJlyxUnar/+6i/aVEVGA7EEh4OafBCXPlLUQPGbRUBhBUveWRxzvR8TEjhKEP4BdepnpG2FSZXw==
