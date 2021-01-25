@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.0.3](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.0.2...@danielpes/coding-standards@1.0.3) (2021-01-25)
+
+### Documentation
+
+- **coding-standards:** Add README file ([2248681](https://github.com/danielpes/coding-standards/commit/22486819fc78564173b8e3077f9d43e1f70f5fbf))
+
 ### [1.0.2](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.0.1...@danielpes/coding-standards@1.0.2) (2021-01-24)
 
 ### Misc
