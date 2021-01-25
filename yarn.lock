@@ -160,9 +160,9 @@
   integrity sha512-VoNqai1vR5anRF5Tuh/+SWDFk7xi7oMwHrHrbm1BprYXjB2RJsWLhUrStMssDxEl5lW/z3EUdg8RvH/IUBccSQ==
 
 "@danielpes/coding-standards@^1.0.0":
-  version "1.0.2"
-  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.0.2/158b29a64abc35fd0512fcccc27e832d335360d1fe59caf530237f9b0cce754a#e917da44c6866bb8ea03b59a723f330bc7e8e561"
-  integrity sha512-rccPc5n+AoXliw+P2Xx5AN2y7ZnqN3BSY6m+GqOWRA8UcDwM3sXkd9kHxc5AFGcH1XerfzAM7JmvP5p34JKSng==
+  version "1.0.3"
+  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.0.3/05d49107e3b692970805271b6c73f0201a5a451750dd4bd4622e51e95ceec840#7db5a5629f300692abc4acba0840c034b3fbd1ea"
+  integrity sha512-uD9q929xRY7TUfbEq93lWqWjZ4uLHZc33ZjKekGQlhHYbFdqzPGQ+qiwReyjZ1dbc4eo7l4mC0yRoCeUpfgpsQ==
   dependencies:
     "@commitlint/cli" "11.0.0"
     conventional-changelog-conventionalcommits "4.5.0"
@@ -171,9 +171,9 @@
     prettier "2.2.1"
 
 "@danielpes/eslint-config@^1.0.0":
-  version "1.0.0"
-  resolved "https://npm.pkg.github.com/download/@danielpes/eslint-config/1.0.0/c4189746ad4e7e6d1e598e8ca526257fc2cb6329b833892d0717ed85a3a10dc0#e59c39812b0f43d9732d2a8ff584c89a1ddbdd37"
-  integrity sha512-6mndg3e+8q4kqOwdNe1UXeG1FItJokzWZX645jAWxyYBfTzWN6X/6V2xMWFOn9E/wI46ou1ucFvhnnDe3nijjQ==
+  version "1.0.1"
+  resolved "https://npm.pkg.github.com/download/@danielpes/eslint-config/1.0.1/11c977b692a1382bb054044ed65c4b081fcbeb6f66d17b3dac26553101a2316b#16628e43ed36ff5ee5a22e088063869014e86cc9"
+  integrity sha512-/8DgXthYG2vvEPYbA4q7tg5wRUTE8Q1iPs5ujuNB57WBlZYtoxITCaIUnITTSiPMjBERgbhvJD1edKlQijQ47Q==
   dependencies:
     eslint "7.18.0"
     eslint-config-prettier "7.2.0"
