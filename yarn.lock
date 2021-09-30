@@ -163,9 +163,9 @@
     chalk "^4.0.0"
 
 "@danielpes/coding-standards@*":
-  version "1.1.0"
-  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.1.0/9a4ab2162f7015dafc08f073434bd625e50be19716b7199c16f97d663684125e#79cd4e0589b2b40bda567bf9a0a9611396f40bb3"
-  integrity sha512-mU2sKm12hCKzXb08cdLQR0hz+6Pu/om4BeNBmlGvIBtncgbveHrz0syUGvCJ9yx1tNAHIhumYFnCCAFF2VPAGA==
+  version "1.1.1"
+  resolved "https://npm.pkg.github.com/download/@danielpes/coding-standards/1.1.1/bc62e105b49737112927ec17d6514147522e54b7284b25cf0fc569766bfa7e9c#d9c1938703590110bc2fe3a9e8158c30720f708c"
+  integrity sha512-1FCQg+VJY/9CFmfgfJ8EcdEzXH7XnwgczYtycXW9066WdDnn4hzkm7Dm9vNSaaUam7vqoEhLcjkaYJhOa2fQ+A==
   dependencies:
     "@commitlint/cli" "13.2.0"
     conventional-changelog-conventionalcommits "4.6.1"
