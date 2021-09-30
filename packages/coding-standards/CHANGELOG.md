@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.0](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.0.3...@danielpes/coding-standards@1.1.0) (2021-09-30)
+
+### Features
+
+- Update dependencies to latest ([d65e22c](https://github.com/danielpes/coding-standards/commit/d65e22c02fe925291b534da013b9b0e5810db6fc))
+- Update husky hooks to match v7 ([5cd18bd](https://github.com/danielpes/coding-standards/commit/5cd18bd5983b3eb21752a11ba0061ec9e5d06e37))
+
 ### [1.0.3](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.0.2...@danielpes/coding-standards@1.0.3) (2021-01-25)
 
 ### Documentation
