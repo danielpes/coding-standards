@@ -9,8 +9,8 @@
     "lerna:publish": "GH_TOKEN=$GITHUB_TOKEN lerna publish --loglevel warn --conventional-commits --create-release github"
   },
   "devDependencies": {
-    "@danielpes/coding-standards": "file:./packages/coding-standards",
-    "@danielpes/eslint-config": "^1.0.1",
+    "@danielpes/coding-standards": "*",
+    "@danielpes/eslint-config": "*",
     "lerna": "4.0.0"
   }
 }
