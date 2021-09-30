@@ -35,7 +35,7 @@ Then, changes can be made with commits following [conventional commits](https://
 New releases can be made by running the corresponding script:
 
 ```sh
-yarn run lerna:release
+yarn run lerna:publish
 ```
 
 Which will pick a new version automatically according to the commit types, create a new tag, create a new GitHub release with release notes and update the CHANGELOG.md file.
