@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.1.1](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.1.0...@danielpes/coding-standards@1.1.1) (2021-09-30)
+
+### Bug Fixes
+
+- **coding-standards:** fix commitlint args ([d287359](https://github.com/danielpes/coding-standards/commit/d2873592940cec7379cf0849d7bfb5c1f8e50080))
+
 ## [1.1.0](https://github.com/danielpes/coding-standards/compare/@danielpes/coding-standards@1.0.3...@danielpes/coding-standards@1.1.0) (2021-09-30)
 
 ### Features
