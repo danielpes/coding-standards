@@ -1,6 +1,6 @@
 {
   "name": "@danielpes/coding-standards",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My personal shared configuration for Prettier, Husky, etc.",
   "repository": "git@github.com:danielpes/coding-standards.git",
   "author": "Daniel de Paula <contact@danielpes.me>",
@@ -16,6 +16,6 @@
     "prettier": "2.4.1"
   },
   "scripts": {
-    "postinstall": "husky install .husky && cp -R husky/* .husky"
+    "postinstall": "CWD=$PWD && cd $INIT_CWD && $CWD/husky/setup.sh .husky"
   }
 }
