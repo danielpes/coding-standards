@@ -1,1 +1,1 @@
-'npx --no-install commitlint -E "$@"'
+'npx --no-install commitlint --edit $1'
