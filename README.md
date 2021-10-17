@@ -8,11 +8,11 @@ This repository is managed with [lerna](https://lerna.js.org/) and includes two 
 
 1. [`@danielpes/coding-standards`](./packages/coding-standards/)
 
-   Includes general shared tools and confiiguration files for Prettier, Husky, lint-staged and commitlint.
+   Includes general shared tools and configuration files for Prettier, Husky, lint-staged and commitlint.
 
 1. [`@danielpes/eslint-config`](./packages/eslint-config)
 
-   Inclues my shared configuration for ESLint, based on eslint:recommended with prettier overrides.
+   Includes my shared configuration for ESLint, based on eslint:recommended with prettier overrides.
 
 The published packages can be found on this repo's [Packages page](https://github.com/danielpes?tab=packages&repo_name=coding-standards).
 
